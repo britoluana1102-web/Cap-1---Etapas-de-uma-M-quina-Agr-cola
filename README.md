@@ -1,12 +1,5 @@
 # Cap-1---Etapas-de-uma-M-quina-Agricola
-> # 🌾 Fase 3 - Banco de Dados Oracle - Sistema de Irrigação Inteligente
-> 
-> **Disciplina:** Cognitive Data Science  
-> **Curso:** Inteligência Artificial - FIAP  
-> **Aluna:** Luana Brito da Silva  
-> **RM:** 566632  
-> 
-> ---
+> # 🌾 Fase 3 - Banco de Dados Oracle - Sistema de Irrigação Inteligente--
 > 
 > ## 📋 Sobre o Projeto
 > Este projeto faz parte da **Fase 3 do PBL** da FarmTech Solutions, focado em soluções de **Agricultura 4.0**.  

@@ -1,4 +1,4 @@
-# Cap-1---Etapas-de-uma-M-quina-Agricola
+# Cap-1---Etapas-de-uma-Máquina-Agricola
 > # 🌾 Fase 3 - Banco de Dados Oracle - Sistema de Irrigação Inteligente--
 > 
 > ## 📋 Sobre o Projeto

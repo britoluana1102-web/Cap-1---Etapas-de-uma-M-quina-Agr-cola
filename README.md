@@ -120,7 +120,7 @@
 > ---
 > 
 > ## 🎥 Vídeo Demonstrativo
-> [Link para demonstração]([https://youtu.be/SEU_LINK_AQUI](https://youtu.be/G3n2D5sfx6M)) – mostra **importação, consultas e análise dos dados**.
+> (https://youtu.be/G3n2D5sfx6M) – mostra **importação, consultas e análise dos dados**.
 > 
 > ---
 > 
